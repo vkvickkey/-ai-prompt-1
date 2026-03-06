@@ -64,6 +64,57 @@ Masterpiece graphic‑novel portrait, ultra‑high detail suitable for 8K render
 ---------------------------
 
 
+                                A detailed AI image generation prompt in the style of illustrator Jimmy Palmiotti emphasizes clean lines, expressive features, and subtle emotional depth in portraits.
+Optimized Prompt
+
+text
+Jimmy Palmiotti illustrator style, intricate linework with delicate hatching and cross-hatching for shading, highly detailed portrait of a man, preserve face 100% identical to reference image with no alterations to features, expression, skin tone, hair, or proportions, extreme 8K/4K resolution, ultra-sharp skin pores, fine facial hairs, realistic skin textures, micro-details on eyes, lips, and wrinkles, wearing a plain simple collared shirt in neutral white or light gray fabric with subtle folds and crisp collar, neutral studio background, sharp focus on face, cinematic soft side lighting to accentuate contours, high contrast, photorealistic rendering within illustrative style.[web:109][web:100]
+
+Key Enhancements
+
+    Face Preservation: Phrases like "preserve face 100% identical to reference" and "no alterations" lock in exact features, common in pro prompts.
+
+    Detail Boost: Specifies "ultra-sharp skin pores, textures" for hyper-realism at 8K, avoiding smoothness pitfalls.
+
+    Style Integration: Filters Palmiotti's illustrative traits (e.g., precise lines, emotional subtlety) while keeping portrait focus; midlibrary.io illustrates his work in portraiture.​
+
+    Composition: Plain shirt minimizes distraction; add "--ar 2:3 --v 6 --q 2 --style raw" for Midjourney if needed.
+
+<img width="896" height="1152" alt="image" src="https://github.com/user-attachments/assets/01a37c9a-4782-4491-aaa8-a89503114b33" />
+
+
+----------------------------
+
+A detailed Midjourney prompt in the style of Roberto Ferri, an Italian Baroque-influenced painter known for dramatic chiaroscuro lighting, hyper-realistic anatomy, surreal eroticism, and visceral textures, applied to a precise portrait of a man.
+
+Core Prompt
+
+portrait of a man, preserve exact face 100% photorealistic reference, intense gaze with psychological depth, muscular neck and shoulders emerging from deep shadows, wearing a plain loose white linen shirt with subtle folds and fabric texture, Roberto Ferri art style, Baroque tenebrism with extreme chiaroscuro, shafts of golden light piercing velvety blackness, hyper-detailed skin pores, sweat beads, vein details, ultra-sharp 8K resolution, flawless anatomy, surreal existential tension blending beauty and torment.
+Detail Enhancers
+
+Extreme macro-level realism: ultra-detailed epidermis with micro-textures, subsurface scattering on skin, razor-sharp follicles, lifelike imperfections like faint scars or stubble, 4K/8K output optimized for print.
+
+Lighting mastery: Caravaggio-inspired dramatic contrasts, single light source carving face from abyss, glowing highlights on cheekbones and lips, deep recursive shadows pooling in collarbones.
+
+Composition: close-up bust portrait, shallow depth of field isolating face and shirt collar, blurred void background to amplify focus on preserved facial structure.
+
+Midjourney Parameters
+
+--ar 2:3 --v 6 --q 2 --style raw --no modern elements, surreal distortions, nudity --stylize 400 --chaos 10
+
+<img width="896" height="1152" alt="image" src="https://github.com/user-attachments/assets/8443ec3b-0894-4b3d-9fc5-f21553707fbc" />
+
+
+--------------------------------
+
+                   Hyper-detailed portrait of a fictional man, front-facing, head-and-shoulders, direct gaze, slight chin lift; 100% facial fidelity for a fictional character (not based on any real person). Plain shirt, solid white or light gray, no logos. Background: minimal studio backdrop with a smooth gradient from warm beige to cool gray, subtle vignette. Lighting: cinematic three-point setup — key light at 45° to sculpt features, soft fill to reduce harsh shadows, and a delicate rim light to separate head from background; color temperature balanced for natural, lifelike skin tones with warm highlights. Style: illustration-inspired portrait blending bold, clean line work and high-contrast shading with ultra-detailed skin textures (pores, micro-skin details, fine hair strands) and painterly shading; a look that sits between graphic illustration and photorealistic texture, reminiscent of classic animation illustrators without copying any particular artist. Atmosphere: calm, dignified studio portrait with restrained, cinematic glow. Colors: natural skin tones, shirt in off-white/light gray, background neutral. Composition: direct, eye-level shot, subject centered; eyes near the upper third for presence. Technical suggestions: ultra-high resolution output (8K preferred, 4K if needed); aspect ratio 4:5 or 3:4; emphasize skin texture and fabric weave; crisp outlines on hair and features while preserving smooth skin gradients.
+
+<img width="896" height="1152" alt="image" src="https://github.com/user-attachments/assets/5da9a9c8-6a3c-4189-8663-bb8ae52fda4f" />
+
+-----------------------
+
+
+
 
 
 
